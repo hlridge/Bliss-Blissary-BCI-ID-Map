@@ -1,4 +1,4 @@
-# Bliss-Blissary-BCI-ID-Map
+# bliss-blissary-bci-id-map
 
 ## Description
 A JSON mapping of Blissary IDs and BCI-AV IDs for Bliss language.
